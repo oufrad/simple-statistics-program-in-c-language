@@ -3,14 +3,6 @@
 #include<math.h>
 
 
-/**************************************
-**    Programme de gestion de notes    *
-**    Date de création     :12/12/2019
-**    Auteurs              : 
-                                          RAMI MOHAMED          MOHAMED OUFRAD         YOUNESS FARGOUCH
-**    Date de mise à jour  :
-**************************************/
-
 
 /****************************************   **les fonctions et procédures pour saisir afficher les élement de tableau statisique*******************************/
 
